@@ -1,0 +1,670 @@
+/*
+|--------------------------------------------------------------------------
+| WIDTH
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .w-1000{
+   max-width: 1000px;
+   width: 100%;
+}
+.wsaw-style .w-800{
+   max-width: 800px;
+   width: 100%;
+}
+.wsaw-style .w-50p{
+   width: 50%;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| BACKGROUND COLOR
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .bg-white{
+   background: #fff;
+   border: 1px solid #ddd;
+   box-sizing: border-box;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| PADDING
+|--------------------------------------------------------------------------
+*/
+
+/*All*/
+.wsaw-style .p-0{
+   padding: 0;
+}
+.wsaw-style .p-5{
+   padding: 5px;
+}
+.wsaw-style .p-10{
+   padding: 10px;
+}
+.wsaw-style .p-15{
+   padding: 15px;
+}
+.wsaw-style .p-20{
+   padding: 20px;
+}
+.wsaw-style .p-25{
+   padding: 25px;
+}
+.wsaw-style .p-30{
+   padding: 30px;
+}
+
+
+/*Top*/
+.wsaw-style .pt-0{
+   padding-top: 0;
+}
+.wsaw-style .pt-5{
+   padding-top: 5px;
+}
+.wsaw-style .pt-10{
+   padding-top: 10px;
+}
+.wsaw-style .pt-15{
+   padding-top: 15px;
+}
+.wsaw-style .pt-20{
+   padding-top: 20px;
+}
+.wsaw-style .pt-25{
+   padding-top: 25px;
+}
+.wsaw-style .pt-30{
+   padding-top: 30px;
+}
+
+/*Right*/
+.wsaw-style .pr-0{
+   padding-right: 0;
+}
+.wsaw-style .pr-5{
+   padding-right: 5px;
+}
+.wsaw-style .pr-10{
+   padding-right: 10px;
+}
+.wsaw-style .pr-15{
+   padding-right: 15px;
+}
+.wsaw-style .pr-20{
+   padding-right: 20px;
+}
+.wsaw-style .pr-25{
+   padding-right: 25px;
+}
+.wsaw-style .pr-30{
+   padding-right: 30px;
+}
+
+/*Bottom*/
+.wsaw-style .pb-0{
+   padding-bottom: 0;
+}
+.wsaw-style .pb-5{
+   padding-bottom: 5px;
+}
+.wsaw-style .pb-10{
+   padding-bottom: 10px;
+}
+.wsaw-style .pb-15{
+   padding-bottom: 15px;
+}
+.wsaw-style .pb-20{
+   padding-bottom: 20px;
+}
+.wsaw-style .pb-25{
+   padding-bottom: 25px;
+}
+.wsaw-style .pb-30{
+   padding-bottom: 30px;
+}
+
+/*Left*/
+.wsaw-style .pl-0{
+   padding-left: 0;
+}
+.wsaw-style .pl-5{
+   padding-left: 5px;
+}
+.wsaw-style .pl-10{
+   padding-left: 10px;
+}
+.wsaw-style .pl-15{
+   padding-left: 15px;
+}
+.wsaw-style .pl-20{
+   padding-left: 20px;
+}
+.wsaw-style .pl-25{
+   padding-left: 25px;
+}
+.wsaw-style .pl-30{
+   padding-left: 30px;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| MARGIN
+|--------------------------------------------------------------------------
+*/
+
+/*All*/
+.wsaw-style .m-0{
+   margin: 0;
+}
+.wsaw-style .m-5{
+   margin: 5px;
+}
+.wsaw-style .m-10{
+   margin: 10px;
+}
+.wsaw-style .m-15{
+   margin: 15px;
+}
+.wsaw-style .m-20{
+   margin: 20px;
+}
+.wsaw-style .m-25{
+   margin: 25px;
+}
+.wsaw-style .m-30{
+   margin: 30px;
+}
+
+/*Top*/
+.wsaw-style .mt-0{
+   margin-top: 0;
+}
+.wsaw-style .mt-10{
+   margin-top: 10px;
+}
+.wsaw-style .mt-15{
+   margin-top: 15px;
+}
+.wsaw-style .mt-20{
+   margin-top: 20px;
+}
+.wsaw-style .mt-25{
+   margin-top: 25px;
+}
+.wsaw-style .mt-30{
+   margin-top: 30px;
+}
+
+/*Right*/
+.wsaw-style .mr-0{
+   margin-right: 0;
+}
+.wsaw-style .mr-5{
+   margin-right: 5px;
+}
+.wsaw-style .mr-10{
+   margin-right: 10px;
+}
+.wsaw-style .mr-15{
+   margin-right: 15px;
+}
+.wsaw-style .mr-20{
+   margin-right: 20px;
+}
+.wsaw-style .mr-25{
+   margin-right: 25px;
+}
+.wsaw-style .mr-30{
+   margin-right: 30px;
+}
+
+/*Bottom*/
+.wsaw-style .mb-0{
+   margin-bottom: 0;
+}
+.wsaw-style .mb-5{
+   margin-bottom: 5px;
+}
+.wsaw-style .mb-10{
+   margin-bottom: 10px;
+}
+.wsaw-style .mb-15{
+   margin-bottom: 15px;
+}
+.wsaw-style .mb-20{
+   margin-bottom: 20px;
+}
+.wsaw-style .mb-25{
+   margin-bottom: 25px;
+}
+.wsaw-style .mb-30{
+   margin-bottom: 30px;
+}
+
+/*Left*/
+.wsaw-style .ml-0{
+   margin-left: 0;
+}
+.wsaw-style .ml-5{
+   margin-left: 5px;
+}
+.wsaw-style .ml-10{
+   margin-left: 10px;
+}
+.wsaw-style .ml-15{
+   margin-left: 15px;
+}
+.wsaw-style .ml-20{
+   margin-left: 20px;
+}
+.wsaw-style .ml-25{
+   margin-left: 25px;
+}
+.wsaw-style .ml-30{
+   margin-left: 30px;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TABLE
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .bc-c{
+   border-collapse: collapse;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| FIELDS
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style select,
+.wsaw-style input{
+   width: 100% !important;
+   max-width: 300px !important;
+}
+.wsaw-style input[type="radio"],
+.wsaw-style input[type="checkbox"]{
+   width: 1rem !important;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| PAGINATION
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .pagination{
+   margin: 10px 0;
+   padding: 0;
+}
+   .wsaw-style .pagination li{
+      display: inline;
+   }
+
+
+
+/*
+|--------------------------------------------------------------------------
+| BORDER
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .bt-1{
+   border-top: 1px solid #ddd;
+}
+.wsaw-style .br-1{
+   border-right: 1px solid #ddd;
+}
+.wsaw-style .bb-1{
+   border-bottom: 1px solid #ddd;
+}
+.wsaw-style .bl-1{
+   border-left: 1px solid #ddd;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| VERTICAL-ALIGNMENT
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .va-t{
+   vertical-align: top;
+}
+.wsaw-style .va-m{
+   vertical-align: middle;
+}
+.wsaw-style .va-b{
+   vertical-align: bottom;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TEXT-ALIGNMENT
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .ta-l{
+   text-align: left;
+}
+.wsaw-style .ta-c{
+   text-align: center;
+}
+.wsaw-style .ta-r{
+   text-align: right;
+}
+.wsaw-style .ta-i{
+   text-align: inherit;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TEXT-TRANSFORM
+|--------------------------------------------------------------------------
+*/
+.wsaw-style .tt-u{
+    text-transform: uppercase;
+}
+
+.wsaw-style .tt-c{
+    text-transform: capitalize;
+}
+
+.wsaw-style .tt-l{
+    text-transform: lowercase;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| SVG-ICONS
+|--------------------------------------------------------------------------
+*/
+.wsaw-style .icon-small svg{
+   width: 12px;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TEXT-STYLE
+|--------------------------------------------------------------------------
+*/
+.wsaw-style .tb{
+   font-weight: 700;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| ALERT BOX
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .alertbox{
+   padding: 15px;
+   clear: both;
+   border-width: 1px;
+   border-style: solid;
+   border-radius: 3px;
+}
+   .wsaw-style .alertbox h3,
+   .wsaw-style .alertbox h2{
+      border: 0 !important;
+      padding: 0 !important;
+      margin: 0 0 10px 0 !important;
+   }
+
+   .wsaw-style .alertbox ul{
+      margin: 0 0 0 20px;
+   }
+      .wsaw-style .alertbox ul li{
+         list-style: disc;
+         margin: 0;
+      }
+         .wsaw-style .alertbox ul li > ul li{
+            list-style: square;
+         }
+
+.wsaw-style .alertbox--red{
+   color: #721c24;
+   background-color: #fae8ea;
+   border-color: #f5c6cb;
+}
+   .wsaw-style .alertbox--red > * {
+      color: #721c24 !important;
+   }
+
+.wsaw-style .alertbox--yellow{
+   color: #eba900;
+   background-color: #fefaf2;
+   border-color: #f9e5b5;
+}
+   .wsaw-style .alertbox--yellow > * {
+      color: #eba900 !important;
+   }
+
+.wsaw-style .alertbox--blue{
+   color: #004085;
+   background-color: #d7ebff;
+   border-color: #b8daff;
+}
+   .wsaw-style .alertbox--blue > * {
+      color: #004085 !important;
+   }
+
+.wsaw-style .alertbox--green{
+   color: #155724;
+   background-color: #ddf6e3;
+   border-color: #c3e6cb;
+}
+   .wsaw-style .alertbox--green > * {
+      color: #155724 !important;
+   }
+
+
+
+/*
+|--------------------------------------------------------------------------
+| SORTABLE
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .sortable-list .ui-sortable-placeholder{
+   height: 50px;
+}
+
+.wsaw-style .sortable-list__item{
+   border: 1px solid #ddd;
+   padding: 10px 10px 10px 40px;
+   cursor: move;
+   background: #fbfbfb;
+   position: relative;
+}
+
+   .wsaw-style .sortable-list__item .dashicons{
+      position: absolute;
+      left: 5px;
+      top: 10px;
+      color: #8f8f8f;
+   }
+
+   .wsaw-style .sortable-list__item:hover{
+      background: #f6faff;
+   }
+
+   .wsaw-style .sortable-list__item-name{
+      font-weight: bold;
+      margin-bottom: 10px;
+   }
+   .wsaw-style .sortable-list__item-info{
+      font-size: 12px;
+      font-style: italic;
+      color: #8f8f8f;
+   }
+
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TAB LIST
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-tab-wrapper .nav-tab{
+   cursor: pointer;
+}
+
+   .wsaw-tab-wrapper .nav-tab > .dashicons{
+      line-height: 26px;
+      height: 24px;
+   }
+
+.wsaw-tab-wrapper .nav-tab-active,
+.wsaw-tab-wrapper .nav-tab-active:focus,
+.wsaw-tab-wrapper .nav-tab-active:focus:active,
+.wsaw-tab-wrapper .nav-tab-active:hover {
+   border-bottom: 1px solid #ffffff;
+   background: #ffffff;
+}
+
+.wsaw-panel-wrapper .wsaw-panel{
+   display: none;
+   padding: 15px 0 0;
+}
+   .wsaw-panel-wrapper .wsaw-panel.wsaw-panel--active{
+      display: block;
+   }
+
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TIP ICONS
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .icon-tip-info::after {
+   content: "\f348" !important;
+   color: #18ace6;
+}
+
+.wsaw-style .icon-tip-error::after {
+   content: "\f534" !important;
+   color: #a44;
+}
+
+.wsaw-style .icon-tip-success::after {
+   content: "\f12a" !important;
+   color: #409e48;
+}
+
+.wsaw-style .icon-tip-warning::after {
+   content: "\f12a" !important;
+   color: #ffb900;
+}
+
+
+
+
+/*
+|--------------------------------------------------------------------------
+| MISC
+|--------------------------------------------------------------------------
+*/
+
+.wsaw-style .ajax-response.error,/*<--- this will be removed, do not use it anymore*/
+.wsaw-style .text-color--error *,
+.wsaw-style .text-color--error{
+   color: #a30000;
+}
+.wsaw-style .ajax-response.success,/*<--- this will be removed, do not use it anymore*/
+.wsaw-style .text-color--success *,
+.wsaw-style .text-color--success{
+   color: #68BD6D;
+}
+
+.wsaw-style .box-headline{
+   font-size: 20px;
+   line-height: 30px;
+   font-weight: bold;
+   margin: 0 0 10px;
+   padding: 0 0 10px;
+   border-bottom: 1px solid #ddd;
+   color: #1d2327;
+}
+   .wsaw-style .box-headline > .dashicons{
+      line-height: 30px;
+      height: 30px;
+   }
+
+.manage-column.column-wsaw_product_type,
+.manage-column.column-wsaw_product_status{
+   width: 11%;
+}
+
+
+.wsaw-tb-label-status {
+   display: -webkit-inline-box;
+   display: inline-flex;
+   line-height: 2.5em;
+   color: #777;
+   background: #e5e5e5;
+   border-radius: 4px;
+   border-bottom: 1px solid rgba(0,0,0,.05);
+   margin: -0.25em 0;
+   cursor: inherit!important;
+   white-space: nowrap;
+   max-width: 100%;
+}
+   .wsaw-tb-label-status>span {
+      margin: 0 1em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+   }
+   .wsaw-tb-label-status.success {
+      background: #c6e1c6;
+      color: #5b841b;
+   }
+   .wsaw-tb-label-status.error {
+      background: #eba3a3;
+      color: #761919;
+   }
+   .wsaw-tb-label-status.warning {
+      background: #f8dda7;
+      color: #94660c;
+   }
+   .wsaw-tb-label-status.info {
+      background: #c8d7e1;
+      color: #2e4453;
+   }

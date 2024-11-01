@@ -1,0 +1,89 @@
+.wsaw-style .menu-item:hover,
+.wsaw-style .menu-item.active {
+   border-left-color: #0066FF;
+}
+
+.wsaw-style .content-header-icon svg,
+.wsaw-style .menu-item-icon svg {
+   fill: #0066FF;
+}
+
+.wsaw-style .content-body h2,
+.wsaw-style .menu-item-name {
+   color: #0066FF;
+}
+
+.wsaw-style .collapsible-header {
+   background: #0066FF;
+}
+
+.wsaw-style .page-content input[type=text]:focus,
+.wsaw-style .page-content input[type=number]:focus,
+.wsaw-style .page-content input[type=password]:focus,
+.wsaw-style .page-content input[type=url]:focus,
+.wsaw-style .page-content textarea:focus,
+.wsaw-style .page-content select:focus{
+   box-shadow: 0 0 0 1px #0066FF;
+}
+
+.wsaw-style .checkbox:checked + .switch {
+   background-color: #0066FF;
+}
+
+.wsaw-style .button {
+   border-color: #0066FF;
+   color: #0066FF;
+}
+.wsaw-style .button:hover,
+.wsaw-style .button:active,
+.wsaw-style .button:focus {
+   border-color: #21529c;
+   color: #21529c;
+}
+
+.wsaw-style .button-primary {
+   background: #0066FF;
+   border-color: #21529c;
+   color: #fff;
+}
+.wsaw-style .button-primary:hover {
+   color: #fff;
+   background: #21529c;
+   border-color: #133c79;
+}
+.wsaw-style .button-primary:active,
+.wsaw-style .button-primary:focus {
+   color: #fff;
+   background: #21529c;
+   border-color: #133c79;
+   box-shadow: 0 0 0 1px #fff, 0 0 0 3px #21529c;
+}
+
+.wsaw-style .button-secondary {
+   color: #fff;
+   background: #BB0000;
+   border-color: #990202;
+}
+.wsaw-style .button-secondary:hover {
+   color: #fff;
+   background: #990202;
+   border-color: #8d0000;
+}
+.wsaw-style .button-secondary:active,
+.wsaw-style .button-secondary:focus {
+   color: #fff;
+   background: #990202;
+   border-color: #8d0000;
+   box-shadow: 0 0 0 1px #fff, 0 0 0 3px #BB0000;
+   background: #BB0000;
+}
+
+.wsaw-style .content-header-icon,
+.wsaw-style .menu-item-icon:before {
+   background-color: #70a9ff45;
+}
+
+.wsaw-tip-error::after {
+   content: "\f534" !important;
+   color: #a44;
+}
